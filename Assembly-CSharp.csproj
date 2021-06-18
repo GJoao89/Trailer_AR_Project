@@ -59,6 +59,8 @@
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Shaders\Glow_02\GlowObject.cs" />
+    <Compile Include="Assets\SceneChange.cs" />
+    <Compile Include="Assets\Scenes\childenHider.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
